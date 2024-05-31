@@ -7,7 +7,7 @@ public class Main {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Masukan amas  : ");
+        System.out.print("Masukan masukan  : ");
         float alas = input.nextFloat();
 
 
