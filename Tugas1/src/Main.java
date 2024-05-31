@@ -7,7 +7,7 @@ public class Main {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Masukan alas  : ");
+        System.out.print("Masukan amas  : ");
         float alas = input.nextFloat();
 
 
@@ -18,4 +18,5 @@ public class Main {
 
         System.out.println("luas segitiga adalah : " + luas);
     }
+    System.out
 }
